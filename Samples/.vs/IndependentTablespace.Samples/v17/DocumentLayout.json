@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\20220210\\IndependentTablespace\\Samples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\IndependentTablespace.Samples.Application\\IndependentTablespace.Samples.Application.csproj|d:\\20220210\\independenttablespace\\samples\\src\\independenttablespace.samples.application\\samplesapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94A50E-06DC-43C1-80B5-B662820EC3EB}|src\\IndependentTablespace.Samples.Application\\IndependentTablespace.Samples.Application.csproj|solutionrelative:src\\independenttablespace.samples.application\\samplesapplicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC682089-EC2F-4CFE-9B56-BF80F7094ED9}|..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj|d:\\20220210\\independenttablespace\\code\\volo.abp.tenant.independenttablespace\\idbconnectionmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC682089-EC2F-4CFE-9B56-BF80F7094ED9}|..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj|d:\\20220210\\independenttablespace\\code\\volo.abp.tenant.independenttablespace\\idbconnectionstringfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC682089-EC2F-4CFE-9B56-BF80F7094ED9}|..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj|d:\\20220210\\independenttablespace\\code\\volo.abp.tenant.independenttablespace\\efcoremodelextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}|src\\IndependentTablespace.Samples.Domain\\IndependentTablespace.Samples.Domain.csproj|d:\\20220210\\independenttablespace\\samples\\src\\independenttablespace.samples.domain\\samplesdomainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}|src\\IndependentTablespace.Samples.Domain\\IndependentTablespace.Samples.Domain.csproj|solutionrelative:src\\independenttablespace.samples.domain\\samplesdomainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A462BEB-6B22-489B-98E3-02A18862C5C6}|IndependentTablespace.Samples.HttpApi.Host\\IndependentTablespace.Samples.HttpApi.Host.csproj|d:\\20220210\\independenttablespace\\samples\\independenttablespace.samples.httpapi.host\\independenttablespacebookstoreapihostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A462BEB-6B22-489B-98E3-02A18862C5C6}|IndependentTablespace.Samples.HttpApi.Host\\IndependentTablespace.Samples.HttpApi.Host.csproj|solutionrelative:independenttablespace.samples.httpapi.host\\independenttablespacebookstoreapihostmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC682089-EC2F-4CFE-9B56-BF80F7094ED9}|..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj|d:\\20220210\\independenttablespace\\code\\volo.abp.tenant.independenttablespace\\voloabptenantindependenttablespacemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfCoreModelExtension.cs",
+              "DocumentMoniker": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\EfCoreModelExtension.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\EfCoreModelExtension.cs",
+              "ToolTip": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\EfCoreModelExtension.cs",
+              "RelativeToolTip": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\EfCoreModelExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:56:13.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDbConnectionStringFactory.cs",
+              "DocumentMoniker": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionStringFactory.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionStringFactory.cs",
+              "ToolTip": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionStringFactory.cs",
+              "RelativeToolTip": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionStringFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:56:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDbConnectionModifier.cs",
+              "DocumentMoniker": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionModifier.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionModifier.cs",
+              "ToolTip": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionModifier.cs",
+              "RelativeToolTip": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\IDbConnectionModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:56:12.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SamplesApplicationModule.cs",
+              "DocumentMoniker": "D:\\20220210\\IndependentTablespace\\Samples\\src\\IndependentTablespace.Samples.Application\\SamplesApplicationModule.cs",
+              "RelativeDocumentMoniker": "src\\IndependentTablespace.Samples.Application\\SamplesApplicationModule.cs",
+              "ToolTip": "D:\\20220210\\IndependentTablespace\\Samples\\src\\IndependentTablespace.Samples.Application\\SamplesApplicationModule.cs",
+              "RelativeToolTip": "src\\IndependentTablespace.Samples.Application\\SamplesApplicationModule.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvywAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:49:58.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndependentTablespaceBookstoreApiHostModule.cs",
+              "DocumentMoniker": "D:\\20220210\\IndependentTablespace\\Samples\\IndependentTablespace.Samples.HttpApi.Host\\IndependentTablespaceBookstoreApiHostModule.cs",
+              "RelativeDocumentMoniker": "IndependentTablespace.Samples.HttpApi.Host\\IndependentTablespaceBookstoreApiHostModule.cs",
+              "ToolTip": "D:\\20220210\\IndependentTablespace\\Samples\\IndependentTablespace.Samples.HttpApi.Host\\IndependentTablespaceBookstoreApiHostModule.cs",
+              "RelativeToolTip": "IndependentTablespace.Samples.HttpApi.Host\\IndependentTablespaceBookstoreApiHostModule.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwBcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:44:56.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SamplesDomainModule.cs",
+              "DocumentMoniker": "D:\\20220210\\IndependentTablespace\\Samples\\src\\IndependentTablespace.Samples.Domain\\SamplesDomainModule.cs",
+              "RelativeDocumentMoniker": "src\\IndependentTablespace.Samples.Domain\\SamplesDomainModule.cs",
+              "ToolTip": "D:\\20220210\\IndependentTablespace\\Samples\\src\\IndependentTablespace.Samples.Domain\\SamplesDomainModule.cs",
+              "RelativeToolTip": "src\\IndependentTablespace.Samples.Domain\\SamplesDomainModule.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:44:16.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoloAbpTenantIndependentTablespaceModule.cs",
+              "DocumentMoniker": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\VoloAbpTenantIndependentTablespaceModule.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\VoloAbpTenantIndependentTablespaceModule.cs",
+              "ToolTip": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\VoloAbpTenantIndependentTablespaceModule.cs",
+              "RelativeToolTip": "..\\Code\\Volo.Abp.Tenant.IndependentTablespace\\VoloAbpTenantIndependentTablespaceModule.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:28:47.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
