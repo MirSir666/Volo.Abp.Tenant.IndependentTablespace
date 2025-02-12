@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj": {}
+  },
+  "projects": {
+    "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj",
+        "projectName": "Volo.Abp.Tenant.IndependentTablespace",
+        "projectPath": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\Volo.Abp.Tenant.IndependentTablespace.csproj",
+        "packagesPath": "C:\\Users\\mirsir\\.nuget\\packages\\",
+        "outputPath": "D:\\20220210\\IndependentTablespace\\Code\\Volo.Abp.Tenant.IndependentTablespace\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\20220210\\IndependentTablespace\\Samples\\NuGet.Config",
+          "C:\\Users\\mirsir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            },
+            "Volo.Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.MySQL": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.Oracle": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.PostgreSql": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.MultiTenancy": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.MultiTenancy.Abstractions": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Volo.Abp.TenantManagement.Application": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

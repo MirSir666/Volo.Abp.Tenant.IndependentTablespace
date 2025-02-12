@@ -1,0 +1,6 @@
+@IndependentTablespace.Samples.WebApi_HostAddress = http://localhost:5226
+
+GET {{IndependentTablespace.Samples.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
